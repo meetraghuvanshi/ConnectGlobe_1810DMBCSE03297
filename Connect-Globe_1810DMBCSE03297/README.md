@@ -18,7 +18,7 @@ Users of the System
 Functional Requirements
 
 1. Admin
-  A.  Can create and post the topic to be discussed and report respectively after getting logged in!
+  A.  Can create and post the topic to be discussed and report respectively after getting logged in.
   B.  Can delete any report which looks like abusive matters.
   C.  Can view all reports and topics to be discussed and can search reports for each police station.
   D.  Can help in any report to proceed it further and can give it to the media.
